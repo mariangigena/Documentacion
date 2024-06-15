@@ -1,5 +1,7 @@
 # Documentación de proyectos: ejemplo
 
+![Libros]((https://github.com/mariangigena/Documentacion/blob/19da91c5f63beeb8346e620e27c5d4cf95af0991/Dise%C3%B1o%20sin%20t%C3%ADtulo.jpg))
+
 ## Descripción
 Este proyecto tiene como objetivo analizar los datos de ventas de una tienda de ropa para identificar patrones, tendencias y oportunidades de mejora. Utilizando técnicas de ciencia de datos, se busca generar información valiosa que ayude a la toma de decisiones estratégicas para mejorar el rendimiento de la tienda.
 
